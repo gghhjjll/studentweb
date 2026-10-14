@@ -1,0 +1,21 @@
+# ملفات البيانات الحساسة والمولّدة تلقائياً — لا تُرفع إلى GitHub
+students.json
+students.json.tmp
+.secret_key
+lectures/
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# المحرّرات والنظام
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
